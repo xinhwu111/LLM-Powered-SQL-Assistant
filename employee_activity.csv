@@ -1,0 +1,101 @@
+employee_id,week_number,num_meetings,total_sales_rmb,hours_worked,activities,department,hire_date,email,job_title
+1,1,6,27983.18,30.57,Resolved critical IT tickets and performed system maintenance.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,2,7,18662.31,50.92,Optimized marketing campaigns and tracked KPIs.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,3,1,3347.44,53.31,Prepared the weekly report and met with clients.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,4,8,12112.57,45.99,Resolved critical IT tickets and performed system maintenance.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,5,9,42508.38,35.81,Optimized marketing campaigns and tracked KPIs.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,6,6,31231.03,33.63,Optimized marketing campaigns and tracked KPIs.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,7,7,19557.03,58.16,Analyzed quarterly financial data and presented insights.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,8,0,14299.37,44.06,Prepared the weekly report and met with clients.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,9,3,43971.57,33.97,Collaborated on cross-functional projects and documented processes.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+1,10,5,43372.69,33.77,Resolved critical IT tickets and performed system maintenance.,Sales,2022-11-30,wei.zhang@example.com,Sales Manager
+2,1,6,25288.93,49.11,Analyzed quarterly financial data and presented insights.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,2,6,41451.44,59.05,Prepared the weekly report and met with clients.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,3,9,36845.6,58.42,Collaborated on cross-functional projects and documented processes.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,4,1,32367.2,44.99,Designed feature prototypes and reviewed technical specs.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,5,3,39152.96,52.95,Faced challenges with customer retention; launched loyalty program to improve retention.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,6,6,10792.8,35.08,Resolved critical IT tickets and performed system maintenance.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,7,6,26972.51,34.4,Resolved critical IT tickets and performed system maintenance.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,8,8,28460.41,46.48,Optimized marketing campaigns and tracked KPIs.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,9,0,34159.6,36.77,Analyzed quarterly financial data and presented insights.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+2,10,5,14103.55,48.87,Collaborated on cross-functional projects and documented processes.,Marketing,2023-06-20,tao.huang@example.com,Marketing Specialist
+3,1,8,3597.04,33.62,Faced challenges with customer retention; launched loyalty program to improve retention.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,2,4,13387.87,49.27,Prepared the weekly report and met with clients.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,3,8,45827.85,56.71,Conducted system audits and updated security protocols.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,4,8,14455.32,47.47,Analyzed quarterly financial data and presented insights.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,5,7,24401.37,49.26,Resolved critical IT tickets and performed system maintenance.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,6,4,49253.1,40.11,Developed a new marketing strategy and coordinated with team.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,7,9,22860.02,39.07,Closed major sales deals and negotiated contracts.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,8,10,30902.66,42.57,Prepared the weekly report and met with clients.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,9,10,48319.83,52.65,Faced challenges with customer retention; launched loyalty program to improve retention.,Product Development,2022-07-02,na.li@example.com,Product Developer
+3,10,8,33095.57,36.01,Faced challenges with customer retention; launched loyalty program to improve retention.,Product Development,2022-07-02,na.li@example.com,Product Developer
+4,1,6,19586.37,42.07,Optimized marketing campaigns and tracked KPIs.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,2,8,30704.47,45.86,Prepared the weekly report and met with clients.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,3,6,14395.28,31.73,Faced challenges with customer retention; launched loyalty program to improve retention.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,4,0,1578.59,37.72,Analyzed quarterly financial data and presented insights.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,5,7,14329.42,52.31,Collaborated on cross-functional projects and documented processes.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,6,4,1673.72,52.66,Faced challenges with customer retention; launched loyalty program to improve retention.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,7,4,49291.68,30.59,Prepared the weekly report and met with clients.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,8,10,19451.25,56.97,Designed feature prototypes and reviewed technical specs.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,9,3,3538.59,34.83,Optimized marketing campaigns and tracked KPIs.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+4,10,0,26466.13,56.98,Prepared the weekly report and met with clients.,Finance,2021-11-01,john.smith@example.com,Financial Analyst
+5,1,9,20067.68,39.13,Developed a new marketing strategy and coordinated with team.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,2,3,48186.46,35.51,Resolved critical IT tickets and performed system maintenance.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,3,0,40487.24,30.73,Resolved critical IT tickets and performed system maintenance.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,4,10,42678.53,34.9,Collaborated on cross-functional projects and documented processes.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,5,1,18657.83,34.87,Faced challenges with customer retention; launched loyalty program to improve retention.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,6,3,5025.32,31.59,Collaborated on cross-functional projects and documented processes.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,7,10,31201.66,59.8,Collaborated on cross-functional projects and documented processes.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,8,1,26629.78,49.93,Closed major sales deals and negotiated contracts.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,9,9,21630.48,42.41,Analyzed quarterly financial data and presented insights.,IT,2021-06-23,alice.chen@example.com,IT Support
+5,10,8,36739.9,46.96,Organized a product demo and gathered user feedback.,IT,2021-06-23,alice.chen@example.com,IT Support
+6,1,2,20424.18,40.11,Closed major sales deals and negotiated contracts.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,2,8,17386.1,31.97,Conducted system audits and updated security protocols.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,3,9,36175.11,50.87,Resolved critical IT tickets and performed system maintenance.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,4,4,24493.17,38.27,Analyzed quarterly financial data and presented insights.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,5,8,24372.73,39.34,Designed feature prototypes and reviewed technical specs.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,6,5,10271.42,30.61,Collaborated on cross-functional projects and documented processes.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,7,7,22654.25,50.91,Conducted system audits and updated security protocols.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,8,9,44954.63,53.9,Optimized marketing campaigns and tracked KPIs.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,9,0,3893.55,38.1,Designed feature prototypes and reviewed technical specs.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+6,10,1,26730.96,49.46,Developed a new marketing strategy and coordinated with team.,Sales,2022-12-04,bob.li@example.com,Sales Associate
+7,1,10,41036.42,51.33,Resolved critical IT tickets and performed system maintenance.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,2,9,21967.17,58.24,Closed major sales deals and negotiated contracts.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,3,3,12457.86,52.5,Developed a new marketing strategy and coordinated with team.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,4,10,34934.64,30.26,Analyzed quarterly financial data and presented insights.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,5,0,49747.26,57.86,Resolved critical IT tickets and performed system maintenance.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,6,4,20598.55,55.28,Collaborated on cross-functional projects and documented processes.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,7,1,17025.44,41.66,Optimized marketing campaigns and tracked KPIs.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,8,2,46811.25,43.23,Designed feature prototypes and reviewed technical specs.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,9,10,30178.38,57.97,Developed a new marketing strategy and coordinated with team.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+7,10,0,35161.84,33.94,Conducted system audits and updated security protocols.,Marketing,2020-09-21,carol.wang@example.com,Marketing Coordinator
+8,1,3,18168.73,49.11,Conducted system audits and updated security protocols.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,2,3,36472.77,45.71,Conducted system audits and updated security protocols.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,3,3,43164.81,32.7,Organized a product demo and gathered user feedback.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,4,4,2582.54,44.17,Developed a new marketing strategy and coordinated with team.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,5,3,48926.57,31.92,Designed feature prototypes and reviewed technical specs.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,6,0,13249.63,45.49,Faced challenges with customer retention; launched loyalty program to improve retention.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,7,3,43695.46,32.78,Faced challenges with customer retention; launched loyalty program to improve retention.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,8,9,5666.09,41.8,Collaborated on cross-functional projects and documented processes.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,9,6,47432.86,58.63,Collaborated on cross-functional projects and documented processes.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+8,10,9,13158.18,59.74,Closed major sales deals and negotiated contracts.,Product Development,2023-01-25,david.liu@example.com,Product Engineer
+9,1,9,12075.6,46.84,Closed major sales deals and negotiated contracts.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,2,4,22343.54,31.5,Analyzed quarterly financial data and presented insights.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,3,6,37363.53,54.23,Prepared the weekly report and met with clients.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,4,7,7474.3,54.94,Faced challenges with customer retention; launched loyalty program to improve retention.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,5,9,15222.8,50.12,Faced challenges with customer retention; launched loyalty program to improve retention.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,6,8,44253.19,51.85,Resolved critical IT tickets and performed system maintenance.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,7,8,4299.39,44.1,Prepared the weekly report and met with clients.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,8,6,41965.23,35.98,Optimized marketing campaigns and tracked KPIs.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,9,6,28223.32,42.36,Organized a product demo and gathered user feedback.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+9,10,7,23180.36,49.73,Resolved critical IT tickets and performed system maintenance.,Finance,2023-03-06,eva.zhou@example.com,Accountant
+10,1,2,21722.18,41.28,Conducted system audits and updated security protocols.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,2,0,5554.84,52.71,Prepared the weekly report and met with clients.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,3,7,27508.12,50.57,Developed a new marketing strategy and coordinated with team.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,4,1,36549.52,52.34,Collaborated on cross-functional projects and documented processes.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,5,0,35405.11,36.2,Organized a product demo and gathered user feedback.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,6,9,47388.85,46.6,Prepared the weekly report and met with clients.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,7,4,10648.88,51.64,Closed major sales deals and negotiated contracts.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,8,1,45180.0,47.39,Conducted system audits and updated security protocols.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,9,3,14903.62,49.52,Conducted system audits and updated security protocols.,IT,2022-01-29,frank.wu@example.com,System Administrator
+10,10,6,11216.55,34.74,Collaborated on cross-functional projects and documented processes.,IT,2022-01-29,frank.wu@example.com,System Administrator
