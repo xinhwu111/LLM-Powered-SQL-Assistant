@@ -1,14 +1,12 @@
-# 🧠 LLM-Enhanced SQL Query System for Employee Insights
+# LLM-Enhanced SQL Query System for Employee Insights
 
 This project demonstrates how to integrate a structured relational database with a Large Language Model (LLM) to allow users to ask natural language questions about employee data and receive accurate, SQL-generated responses.
 
----
 
 ## 📌 Overview
 
 This project integrates OpenAI's GPT-4 with an SQLite database using the LangChain framework. It showcases how LLMs can autonomously generate and execute SQL queries based on natural language inputs. The system is benchmarked and improved iteratively to handle advanced questions, including those requiring external knowledge (e.g., historical recession periods).
 
----
 
 ## 🛠️ Features
 
@@ -19,9 +17,8 @@ This project integrates OpenAI's GPT-4 with an SQLite database using the LangCha
 - ✅ SerpAPI integration for real-time web lookup (e.g., recession dates)
 - ✅ Multi-agent tool selection via `zero-shot-react-description`
 
----
 
-## 📊 Data Generation
+## Data Generation
 
 We created a synthetic employee activity dataset with the following structure:
 
@@ -46,7 +43,6 @@ We created a synthetic employee activity dataset with the following structure:
 
 The database was exported to `employee_activity.db` and used by the LLM via LangChain.
 
----
 
 ## 🤖 System Architecture
 
@@ -57,8 +53,6 @@ The database was exported to `employee_activity.db` and used by the LLM via Lang
 - **Tools Used**:
   - `Employee Database Agent`: answers queries using SQL
   - `Recession Search`: finds historical recession periods using SerpAPI
-
----
 
 ## 📈 Benchmarks
 
@@ -71,7 +65,6 @@ The database was exported to `employee_activity.db` and used by the LLM via Lang
   - No access to external data (Query 13 failed)
   - Limited contextual understanding (Query 14 incomplete)
 
----
 
 ### **System Improvements**
 
@@ -82,7 +75,6 @@ The database was exported to `employee_activity.db` and used by the LLM via Lang
 | Prompt Enhancement | Custom prefix with clear SQL-only instructions |
 | Agent Behavior | Switched to `zero-shot-react-description` for tool selection |
 
----
 
 ### **Benchmark 2: After Improvements**
 
@@ -90,7 +82,6 @@ The database was exported to `employee_activity.db` and used by the LLM via Lang
 - Query 14: Returns employees facing customer retention issues with proposed solutions
 - Overall improved completeness, reasoning, and factual accuracy
 
----
 
 ## 📌 Key Learnings
 
@@ -98,23 +89,3 @@ The database was exported to `employee_activity.db` and used by the LLM via Lang
 - Tool-based architecture allows LLMs to handle hybrid (database + web) tasks
 - Schema design is critical: aligning `activities` column with real-world query intent is essential
 - Zero-shot agents can reason about tool use dynamically with no additional training
-
----
-
-## 📁 Repository Structure
-
-```
-├── data_generation.py       # Code to generate synthetic employee data
-├── employee_activity.db     # SQLite database used in the system
-├── employee_activity.csv    # Exported version of the DB as CSV
-├── LLM_SQL_Project.pptx     # Final project presentation
-├── README.md                # You're here!
-```
-
----
-
-## 📞 Contact
-
-Created by **Xinhe Wu**  
-MS in Data Science, University of Michigan  
-For questions, reach out via [GitHub Issues](https://github.com/your-repo/issues) or email.
